@@ -4,6 +4,6 @@ Top 20 Cryptocurrencies parsed real time from [CoinMarketCap](https://coinmarket
 
 ## How to use
 Clone repository. Open _index.html_ file. 
-![alt text]()
+![alt text](https://github.com/emily-gong/cryptocurrencies-lookup/blob/master/images/display.png)
 ### License
 This project is under MIT License.
