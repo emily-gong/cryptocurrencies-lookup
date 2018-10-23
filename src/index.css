@@ -1,0 +1,45 @@
+#coin-table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#coin-table td, #customers th {
+    border: 1px solid #acdff2;
+    padding: 8px;
+}
+
+#coin-table tr:nth-child(even){background-color: #acdff2;}
+
+#coin-table tr:hover {background-color: #ddd;}
+
+#coin-table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #7670af;
+    color: white;
+}
+
+h1 {
+    alignment: center;
+    font-size: 40px;
+    font-family: 'Noto Serif', serif;
+}
+
+body {
+    padding-top: 10px;
+    padding-left: 13%;
+    padding-right: 13%;
+    margin-bottom: 80px;
+}
+
+.footer {
+    text-align: right;
+    font-size: medium;
+    position: fixed;
+    left: -20px;
+    bottom: 10px;
+    width: 100%;
+    margin-right: 20px;
+}
